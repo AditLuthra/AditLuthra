@@ -1,50 +1,52 @@
 # 👋 Hey, I’m Adit Luthra
 
-![visitors](https://komarev.com/ghpvc/?username=aditluthra&style=flat-square&color=brightgreen)
+![visitors](https://komarev.com/ghpvc/?username=aditluthra&style=flat-square&color=brightgreen)  
 ![trophy](https://github-profile-trophy.vercel.app/?username=aditluthra&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
-⚡ Student · Builder · Daydreamer with a soldering iron  
-💭 I see the world not for what it is, but what it could become  
-🔧 I build tools, bots, spaces & systems that empower weirdos like me to create more  
+⚡ Builder of tools, spaces & futures  
+💭 I don’t wait for the world to change — I prototype the next one  
+🛠 I build systems that enable misfits like me to create without permission
 
 ---
 
 ## 🧠 Current Zones of Obsession
 
-- Building **autonomous robots** that actually work
-- Designing **PCBs that look like art**
-- Simulating **chaos and control** in LTspice & Gazebo
-- Making **hardware tools that feel magical**
-- Creating **systems that enable others to build more**
+- 🧭 Autonomous robots that don’t drift… unless I want them to  
+- 🔩 Custom PCBs — not just functional, but optimized for beauty & balance  
+- ⚡ Building my own smart charger — because off-the-shelf is never enough  
+- 🔁 Closing the loop between imagination, simulation & real-world builds  
+- 🧱 Architecting systems that scale — from a bot to an entire ecosystem
 
 ---
 
-## 🛠️ Skills & Tools I Trust
+## 🛠️ Tools I Actually Use (and Abuse)
 
 <p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" /></a>
 </p>
 
----
-
-## 🧩 Stuff I’ve Built (or Am Building)
-
-- 🤖 **AUV** – Underwater robot with a robotic arm & navigation logic  
-- 🚗 **Line/Maze Solver** – Custom PCB + ESP + PID perfectionism  
-- 🔋 **Smart Charger** – High-voltage, high-current custom charger w/ UI  
-- 🧠 **My Own OS** – A “Home OS” for smart environments  
-- 🛠️ **And 30+ random prototypes** no one ever sees but changed me
+🧪 Bonus: KiCad, OrcaSlicer, LTspice, ROS2, WebUI hacking, Keycloak auth, and duct tape.
 
 ---
 
-## 🌐 Connect With Me
+## 🧩 Things I’ve Built (or Am Building)
+
+- 🤖 **AUV** – A full underwater autonomous robot with a robotic arm  
+- 🚀 **High-speed Maze Solver** – Custom PCB + curved sensor array + ESP + PID at its limit  
+- 🔋 **Smart Charger** – Multi-voltage, dual-battery, BQ24640 + UI + airflow control  
+- 🧠 **Home OS** – Because Alexa is boring and I wanted a smarter home  
+- 🧰 **MakrCave + MakrX.store** – Not startups. Platforms. For makers like me.
+
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://github.com/aditluthra"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
@@ -54,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Fuel for the fire)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditluthra&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -64,4 +66,4 @@
 
 ---
 
-> 🧠 “I don't wait for the future. I build it, debug it, and version control it.”
+> 🧠 “I’m not here to fit into the system. I’m here to debug it, fork it, and ship something better.”
