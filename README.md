@@ -1,9 +1,13 @@
-<h1 align="left">
-  👋 Hey, I’m Adit Luthra
-</h1>
+<h1 align="left">👋 Hey, I’m Adit Luthra</h1>
 
+<!-- SEO-first keywords (plain text, indexable) -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=E6D5AE&width=520&lines=Founder+%40MakrX.;Robotics+%7C+Embedded+%7C+Full-Stack.;I+prototype+the+next+world.;Building+systems+for+misfits+like+me." />
+  <b>Robotics Engineer</b> • <b>Embedded Systems</b> • <b>Autonomous Robots</b> • <b>PCB Design</b> • <b>Power Electronics</b> • <b>Full-Stack Developer</b> • <b>FastAPI</b> • <b>Next.js</b> • <b>Docker</b> • <b>Linux</b>
+</p>
+
+<!-- Minimal motion (visual only; SEO already handled above) -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=E6D5AE&width=680&lines=I+debug+systems+and+ship+better+ones.;Autonomous+robots+%7C+Custom+PCBs+%7C+Power+electronics.;Simulation+%E2%86%92+Hardware+%E2%86%92+Field+testing+%E2%86%92+repeat.;Prototyping+the+future%2C+one+iteration+at+a+time." />
 </p>
 
 <p>
@@ -11,7 +15,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aditluthra&theme=gruvbox&no-frame=true&margin-w=6" />
 </p>
 
-⚡ Founder @MakrX • Builder of tools, spaces & futures  
 💭 I don’t wait for the world to change — I prototype the next one  
 🛠 I build systems that empower misfits like me to create without permission  
 
@@ -48,12 +51,11 @@
 
 | 🛠 Project | ⚡ Highlights |
 |-----------|--------------|
-| **MakrX Ecosystem** | Full-stack maker platform – Keycloak Auth, FastAPI, Next.js, Docker |
 | **AUV** | Underwater autonomous drone with robotic arm & onboard control |
 | **Smart Charger** | Dual-battery, MPPT logic, BQ ICs, UI, airflow, and thermal logic |
 | **Line Follower** | PCB body, curved sensor array, custom ESP32 logic, PID @ full send |
 | **Home OS** | A personal smart dashboard to control my entire home |
-| **MakrCave + MakrX.store** | From makerspaces to e-commerce. Infra for the makerverse. |
+| **Tooling & Infra** | Dockerized dev setups, auth patterns, scalable systems |
 
 ---
 
@@ -64,6 +66,16 @@
   <img src="https://streak-stats.demolab.com?user=aditluthra&theme=gruvbox&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditluthra&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
+
+---
+
+## 🐍 Minimal animation (optional, once enabled)
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/aditluthra/aditluthra/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> If the snake doesn’t show, it means the generator workflow isn’t set up yet.
 
 ---
 
