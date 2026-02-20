@@ -1,6 +1,15 @@
-<!-- Hero: minimal motion -->
+<!-- Top: waving hand + SEO-safe heading -->
+<h1 align="center">Hi, I’m Adit Luthra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="waving hand" /></h1>
+
+<!-- SEO-safe one-liner (plain text, searchable) -->
+<p align="center"><b>Robotics • Embedded Systems • Full-Stack • Hardware Product Builder</b></p>
+
+<!-- Animated text (visual only; SEO still covered by plain text above) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=E6D5AE&center=true&vCenter=true&width=720&lines=Hey%2C+I%E2%80%99m+Adit+Luthra.;I+debug+systems+and+ship+better+ones.;Robotics+%E2%80%A2+Embedded+%E2%80%A2+Full-Stack+%E2%80%A2+MakrX.;Building+the+makerverse%2C+one+prototype+at+a+time." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=E6D5AE&center=true&vCenter=true&width=720&lines=I+debug+systems+and+ship+better+ones.;Robotics+%E2%80%A2+Embedded+%E2%80%A2+Full-Stack+%E2%80%A2+Hardware.;Building+machines+that+behave...+until+I+tell+them+not+to.;Prototyping+the+future%2C+one+iteration+at+a+time."
+    alt="typing intro"
+  />
 </p>
 
 <p align="center">
@@ -11,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditluthra&style=flat-square&color=brightgreen" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aditluthra&theme=gruvbox&no-frame=true&margin-w=6" />
+  <img src="https://komarev.com/ghpvc/?username=aditluthra&style=flat-square&color=brightgreen" alt="profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aditluthra&theme=gruvbox&no-frame=true&margin-w=6" alt="trophies" />
 </p>
 
 ---
@@ -21,10 +30,10 @@
 I’m not here to fit into the system.  
 I’m here to **debug it, fork it, and ship something better.**
 
-- 🧠 Founder @ **MakrX** — tools, spaces, and infrastructure for makers
 - 🤖 Robotics + Embedded Systems — autonomous machines that behave (or don’t, on purpose)
 - 🔩 Custom PCBs — functional, beautiful, and engineered like they matter
-- 🧱 Ecosystems — because one project is cool… but **a platform changes the game**
+- ⚡ Power + control systems — chargers, BMS logic, thermal sanity, real-world reliability
+- 🔁 Closing the loop between imagination, simulation & execution
 
 ---
 
@@ -33,19 +42,18 @@ I’m here to **debug it, fork it, and ship something better.**
 - 🔥 Power electronics + smart chargers (MPPT logic, BQ ICs, thermal sanity)  
 - 🧬 PCBs as products (signal + power integrity, not spaghetti art)  
 - 🔁 Simulation → Hardware → Field testing loops  
-- 🏗 Makerspace infrastructure at scale (MakrCave + distributed fabrication)  
+- 🏎 High-speed control tuning (PID at full send, but stable)  
 
 ---
 
 ## 🚀 Active Builds
 | Project | What it becomes |
 |--------|------------------|
-| **MakrX Ecosystem** | Full-stack maker platform (Auth, Marketplace, Infra) |
-| **MakrCave** | Distributed makerspace management + inventory intelligence |
-| **AUV** | Autonomous underwater drone + robotic arm |
+| **AUV** | Autonomous underwater drone with robotic arm |
 | **Smart Charger** | Dual-battery smart charger with MPPT + UI + thermal logic |
 | **High-Speed Line Follower** | PCB-bodied robot tuned for precision PID at full send |
 | **Home OS** | Local-first smart home dashboard (control without cloud dependence) |
+| **Tooling & Infra Experiments** | Dockerized dev setups, auth patterns, and systems that scale |
 
 ---
 
@@ -61,9 +69,9 @@ I’m here to **debug it, fork it, and ship something better.**
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditluthra&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=aditluthra&theme=gruvbox&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditluthra&layout=compact&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditluthra&show_icons=true&theme=gruvbox&hide_border=true" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=aditluthra&theme=gruvbox&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditluthra&layout=compact&theme=gruvbox&hide_border=true" alt="top languages" />
 </p>
 
 ---
@@ -76,10 +84,11 @@ I’m here to **debug it, fork it, and ship something better.**
 ---
 
 ## 🌌 The Vision
-MakrX is my long game: **a maker ecosystem that turns ideas into reality fast** —  
-from a kid’s first robot to factories, labs, and global communities.
+I’m building toward a world where **anyone can go from idea → prototype → real machine** fast.  
+Not someday. Not “when the tools exist.”  
+**Now.**
 
-If you’re building ambitious hardware, autonomous systems, or maker infrastructure:  
+If you’re building ambitious hardware, autonomous systems, or high-agency tech:  
 **we’ll get along.**
 
-⭐ Let’s build the future people think is “too much”.
+> “I’m not here to fit into the system. I’m here to debug it, fork it, and ship something better.”
