@@ -1,62 +1,65 @@
-# 👋 Hey, I’m Adit Luthra
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aditluthra&style=flat-square&color=brightgreen" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aditluthra&theme=gruvbox&no-frame=true&margin-w=5" />
+<!-- Hero: minimal motion -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=E6D5AE&center=true&vCenter=true&width=720&lines=Hey%2C+I%E2%80%99m+Adit+Luthra.;I+debug+systems+and+ship+better+ones.;Robotics+%E2%80%A2+Embedded+%E2%80%A2+Full-Stack+%E2%80%A2+MakrX.;Building+the+makerverse%2C+one+prototype+at+a+time." />
 </p>
 
-## 🚀 Robotics Engineer • Full-Stack Builder • Founder of MakrX
+<p align="center">
+  <a href="https://aditluthra.com"><b>aditluthra.com</b></a> •
+  <a href="https://linkedin.com/in/aditluthra"><b>LinkedIn</b></a> •
+  <a href="mailto:aditluthra0@gmail.com"><b>Email</b></a> •
+  <a href="https://github.com/aditluthra"><b>GitHub</b></a>
+</p>
 
-⚡ Founder @MakrX – building tools, spaces & scalable maker ecosystems  
-🤖 Robotics | Embedded Systems | Autonomous Machines | Custom PCBs  
-🧠 I don’t wait for the world to change — I prototype the next one  
-🛠 I build systems that empower misfits to create without permission  
-
----
-
-# 🌐 👉 **[AditLuthra.com](https://aditluthra.com)**  
-
-*Portfolio • Projects • Vision • Experiments*
-
----
-
-## 🧠 Current Zones of Obsession
-
-- 🤖 Autonomous robotics systems (ground, underwater, aerial)
-- 🔩 Custom PCB design (KiCad, high-current routing, thermal design)
-- ⚡ Smart multi-voltage chargers & battery systems (BQ ICs, MPPT logic)
-- 🔁 Simulation → Hardware → Field Testing loop
-- 🧱 Architecting scalable ecosystems (MakrX, MakrCave, Maker Infrastructure)
-- 🌍 Building India’s largest distributed makerspace network
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditluthra&style=flat-square&color=brightgreen" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aditluthra&theme=gruvbox&no-frame=true&margin-w=6" />
+</p>
 
 ---
 
-## 🛠 Tech Stack & Tools
+### ⚡ What I’m About
+I’m not here to fit into the system.  
+I’m here to **debug it, fork it, and ship something better.**
 
+- 🧠 Founder @ **MakrX** — tools, spaces, and infrastructure for makers
+- 🤖 Robotics + Embedded Systems — autonomous machines that behave (or don’t, on purpose)
+- 🔩 Custom PCBs — functional, beautiful, and engineered like they matter
+- 🧱 Ecosystems — because one project is cool… but **a platform changes the game**
+
+---
+
+## 🧠 Current Zones of Obsession (a.k.a. my brain tabs)
+- 🧭 Autonomous robots that *don’t* drift… unless I want them to  
+- 🔥 Power electronics + smart chargers (MPPT logic, BQ ICs, thermal sanity)  
+- 🧬 PCBs as products (signal + power integrity, not spaghetti art)  
+- 🔁 Simulation → Hardware → Field testing loops  
+- 🏗 Makerspace infrastructure at scale (MakrCave + distributed fabrication)  
+
+---
+
+## 🚀 Active Builds
+| Project | What it becomes |
+|--------|------------------|
+| **MakrX Ecosystem** | Full-stack maker platform (Auth, Marketplace, Infra) |
+| **MakrCave** | Distributed makerspace management + inventory intelligence |
+| **AUV** | Autonomous underwater drone + robotic arm |
+| **Smart Charger** | Dual-battery smart charger with MPPT + UI + thermal logic |
+| **High-Speed Line Follower** | PCB-bodied robot tuned for precision PID at full send |
+| **Home OS** | Local-first smart home dashboard (control without cloud dependence) |
+
+---
+
+## 🛠 Tech Stack (tools I actually use — and occasionally abuse)
 **Languages:** C • C++ • Python  
-**Embedded & Robotics:** Arduino • ESP32 • ROS2 • Raspberry Pi  
-**Backend:** FastAPI • Keycloak • JWT Auth • Docker  
-**Frontend:** Next.js • Framer Motion • WebSerial  
-**Hardware:** KiCad • LTspice • OrcaSlicer • Oscilloscopes & too much duct tape  
-**Systems:** Linux • Self-hosted infra • Networked fabrication systems  
-
----
-
-## 🚀 Active Projects
-
-| Project | What It Actually Means |
-|----------|-----------------------|
-| **MakrX Ecosystem** | Full-stack maker platform (Keycloak, FastAPI, Next.js, Docker, Marketplace infra) |
-| **MakrCave** | Distributed makerspace infrastructure + inventory intelligence |
-| **AUV** | Autonomous underwater vehicle with robotic arm & onboard compute |
-| **Smart Charger** | Dual-battery smart charger with MPPT logic & airflow modeling |
-| **High-Speed Line Follower** | Custom PCB body, curved sensor array, ESP32 PID tuning |
-| **Home OS** | AI-powered smart home dashboard with local control |
+**Embedded:** ESP32 • Arduino • Raspberry Pi • ROS2  
+**Backend:** FastAPI • Keycloak • JWT • Docker  
+**Frontend:** Next.js • Framer Motion  
+**Hardware:** KiCad • LTspice • OrcaSlicer  
+**Systems:** Linux • Self-hosted infra  
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditluthra&show_icons=true&theme=gruvbox&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=aditluthra&theme=gruvbox&hide_border=true" />
@@ -65,24 +68,18 @@
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/aditluthra">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
-  </a>
-  <a href="https://linkedin.com/in/aditluthra">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
-  </a>
-  <a href="mailto:aditluthra0@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="32"/>
-  </a>
+## 🐍 Minimal animation (because why not)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aditluthra/aditluthra/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-> 🧠 *“I’m not here to fit into the system. I’m here to debug it, fork it, and ship something better.”*
+## 🌌 The Vision
+MakrX is my long game: **a maker ecosystem that turns ideas into reality fast** —  
+from a kid’s first robot to factories, labs, and global communities.
 
----
+If you’re building ambitious hardware, autonomous systems, or maker infrastructure:  
+**we’ll get along.**
 
-⭐ If you’re into robotics, embedded systems, makerspaces, or building impossible things — we’ll get along.
+⭐ Let’s build the future people think is “too much”.
